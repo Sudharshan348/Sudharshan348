@@ -59,12 +59,7 @@
 
 ## 📊 GitHub Stats:
 
-![Sudharshan348's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sudharshan348&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
 ![Sudharshan348's GitHub streak](https://streak-stats.demolab.com/?user=Sudharshan348&theme=tokyonight&hide_border=false)
-
-![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sudharshan348&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudharshan348&theme=tokyonight)
 
-![Profile views](https://komarev.com/ghpvc/?username=Sudharshan348&style=for-the-badge&color=blueviolet)
